@@ -27,7 +27,7 @@ EOF
          exit 0
          ;;
       *)
-         printf %"%s\n" "Incorrect syntax, try -h for help"
+         printf "%s\n" "Incorrect syntax, try -h for help"
          exit 0
          ;;
     esac
